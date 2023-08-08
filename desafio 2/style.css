@@ -1,0 +1,62 @@
+#balao{
+    position: static;
+
+}
+
+body {
+    text-align: center;
+}
+img{
+    margin: 10px;
+}
+
+#conteudo {
+    width: 592px;
+    margin:0 auto 72px;
+
+}
+
+    
+h1 {
+    font-size: 32px;
+    color:#3F3D56;
+    font-family: 'Dosis', sans-serif;
+    font-weight:lighter;
+}
+span {
+    color: #EE24FF;
+    font-weight: bold;
+}
+
+p {
+    font-size: 15px;
+    font-family: 'Open Sans', sans-serif;
+    color: #828282;
+}
+
+strong, #links  {
+    color: #3F3D56;
+}
+
+#line {
+    width: 568px;
+    height: 0;
+    margin: 0 auto 8px;
+    border: 1px solid #ECEFF2;
+}
+
+#footer {
+    position: relative;
+    bottom: 0;
+}
+
+a {
+    text-decoration: none;
+    color: #3F3D56;
+    font-weight: bold;
+}
+
+#links a+a {
+    margin-left: 28px;
+}
+
